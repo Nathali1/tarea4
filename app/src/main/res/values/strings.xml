@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Grupo4Tarea</string>
+    <string name="color">color</string>
+    <string name="registro">publicar</string>
+    <string name="lblRating">Calificacion</string>
+    <string name="ckbRating">Guardar Calificacion</string>
+    <string name="TglColorOn">A</string>
+    <string name="TglColorOff">B</string>
+    <string name="NombreCompleto">Nombre Completo</string>
+    <string name="Comentario">Comentario</string>
+    <string name="Materia">materia</string>
+    <string name="Facultad">Facultad</string>
+</resources>
